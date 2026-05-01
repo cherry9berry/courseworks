@@ -7,3 +7,7 @@ A decentralized Peer-to-Peer (P2P) chat application written in Python. Every nod
 - **Networking**: Raw TCP sockets (`socket` module) with daemon multithreading for concurrent connections.
 - **Protocol**: Custom Length-Prefix Framing ensuring complete payload delivery, with JSON-encoded message bodies (UTF-8).
 - **Features**: Thread-safe peer management (using `threading.Lock`), broadcast messaging, and clean socket termination.
+
+### Screenshots
+![Interface 1](interface_1.png)
+![Interface 2](interface_2.png)
