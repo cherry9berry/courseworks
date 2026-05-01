@@ -1,4 +1,4 @@
-# P2P Console Messenger (Python)
+﻿# P2P Console Messenger (Python)
 
 A decentralized Peer-to-Peer (P2P) chat application written in Python. Every node acts simultaneously as both a server and a client.
 
@@ -9,5 +9,5 @@ A decentralized Peer-to-Peer (P2P) chat application written in Python. Every nod
 - **Features**: Thread-safe peer management (using `threading.Lock`), broadcast messaging, and clean socket termination.
 
 ### Screenshots
-![Interface 1](interface_1.png)
-![Interface 2](interface_2.png)
+![Interface](interface_p2p.png)
+
