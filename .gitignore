@@ -1,0 +1,7 @@
+*.doc
+*.docx
+*.pdf
+.vs/
+*.user
+x64/
+Debug/
